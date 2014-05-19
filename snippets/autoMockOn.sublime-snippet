@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.autoMockOn();
+]]></content>
+    <tabTrigger>amo</tabTrigger>
+    <scope>source.js</scope>
+    <description>jest: re-enable automatic mock</description>
+</snippet>

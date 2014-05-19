@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.clearAllTimers();
+]]></content>
+    <tabTrigger>cat</tabTrigger>
+    <scope>source.js</scope>
+    <description>jest: remove any pending timer</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.genMockFromModule(${1:moduleObj});${0}
+]]></content>
+    <tabTrigger>gmfm</tabTrigger>
+    <scope>source.js</scope>
+    <description>jest: generate a mocked version</description>
+</snippet>
