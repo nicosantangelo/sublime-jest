@@ -1,7 +1,9 @@
 Sublime Jest
 ============
 
-Sublime Text helpers for [Jest](http://facebook.github.io/jest/)
+Sublime Text helpers for [Jest](http://facebook.github.io/jest/). 
+
+For now, the package consists on snippets only, any ideas or feature requests, let me know, or add a pull request!
 
 ## Snippet example
 
@@ -9,6 +11,8 @@ Sublime Text helpers for [Jest](http://facebook.github.io/jest/)
 ```
 snippet
 ```
+
+All snippets are also available in CoffeeScript.
 
 ## Snippets
 
@@ -29,7 +33,7 @@ jest.clearAllTimers();
 
 ###dm
 ```
-jest.dontMock(${1:moduleName});${0}
+jest.dontMock("${1:module}");${0}
 ```
 
 ###gmfm
@@ -44,7 +48,7 @@ jest.getMockFunction();
 
 ###jm
 ```
-jest.mock(${1:moduleName});${0}
+jest.mock("${1:moduleName}");${0}
 ```
 
 ###rat
@@ -64,5 +68,5 @@ jest.runOnlyPendingTimers();
 
 ###sm
 ```
-jest.setMock(${1:moduleName}, ${2:moduleExports});${0}
+jest.setMock("${1:moduleName}", ${2:moduleExports});${0}
 ```
