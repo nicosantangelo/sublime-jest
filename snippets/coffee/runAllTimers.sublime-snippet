@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.runAllTimers
+]]></content>
+    <tabTrigger>ratr</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>jest: execute all queued timeout micro-tasks</description>
+</snippet>

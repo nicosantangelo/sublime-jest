@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.autoMockOff
+]]></content>
+    <tabTrigger>amf</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>jest: disable automatic mocking</description>
+</snippet>

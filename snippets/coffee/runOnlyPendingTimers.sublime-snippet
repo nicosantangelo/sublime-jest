@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.runOnlyPendingTimers
+]]></content>
+    <tabTrigger>ropt</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>jest: executes pending micro-tasks</description>
+</snippet>

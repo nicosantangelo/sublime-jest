@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.runAllTicks
+]]></content>
+    <tabTrigger>rat</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>jest: execute all nextTicked micro-tasks</description>
+</snippet>

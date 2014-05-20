@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+jest.getMockFunction
+]]></content>
+    <tabTrigger>gmf</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>jest: unused mock function</description>
+</snippet>
