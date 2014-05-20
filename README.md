@@ -70,3 +70,12 @@ jest.runOnlyPendingTimers();
 ```
 jest.setMock("${1:moduleName}", ${2:moduleExports});${0}
 ```
+
+## Installation
+
+### Manual
+
+You can clone the repo in your `/Packages` (*Preferences -> Browse Packages...*) folder and start using/hacking it.
+    
+    cd ~/path/to/Packages
+    git clone https://github.com/NicoSantangelo/sublime-jest.git SublimeJest
